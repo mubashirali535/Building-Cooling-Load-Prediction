@@ -127,11 +127,8 @@ streamlit run app.py
 
 
 
-```
-app_preview.png
-```
+![Application Preview](app_preview.png)
 
----
 
 ## 👨‍💻 Author
 
