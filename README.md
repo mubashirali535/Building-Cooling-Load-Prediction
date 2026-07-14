@@ -1,11 +1,17 @@
 # 🏢 Building Cooling Load Prediction
 
-A Machine Learning web application that predicts the **Cooling Load** of a building based on its structural characteristics. This project uses the **UCI Energy Efficiency Dataset** and compares multiple regression algorithms to identify the best-performing model.
+A Machine Learning web application that predicts the **Cooling Load** of a building using building design parameters.
 
 ## 🚀 Live Demo
 
-**Streamlit App:**  
+👉 **Try the App:**  
 https://building-cooling-load-prediction-7rtpboqumxoerlbcjp3who.streamlit.app
+
+---
+
+## 📷 Application Preview
+
+![Application Preview](app_preview.png)
 
 ---
 
@@ -88,29 +94,6 @@ Building-Cooling-Load-Prediction/
 ├── requirements.txt
 └── README.md
 ```
-
----
-
-## ▶️ Run Locally
-
-### Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-```
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the Streamlit application
-
-```bash
-streamlit run app.py
-```
-
 ---
 
 ## 🎯 Features
@@ -122,13 +105,6 @@ streamlit run app.py
 - Responsive web application
 
 ---
-
-## 📷 Application Preview
-
-
-
-![Application Preview](app_preview.png)
-
 
 ## 👨‍💻 Author
 
